@@ -14,5 +14,5 @@ To the test the build before installing the APK:
 2. Install node modules. Type in your command line `npm install`.
 3. Start your **Android/iOS** emulator.
 4. To test build in run:
-	a. For **Android**: `react-native run-android`
-	b. For **iOS**: `react-native run-ios`
+	* For **Android**: `react-native run-android`
+	* For **iOS**: `react-native run-ios`
