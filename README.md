@@ -12,7 +12,7 @@ The API KEY used in [~/blob/master/src/components/NewsList.js](https://github.co
 To the test the build before installing the APK:
 1. Clone Repository by running `git clone https://github.com/asterdan712/News-App.git` in your command line.
 2. Install node modules. Type in your command line `npm install`.
-3. Start your Android/iOS emulator.
+3. Start your **Android/iOS** emulator.
 4. To test build in run:
-	a. For Android: `react-native run-android`
-	b. For iOS: `react-native run-ios`
+	a. For **Android**: `react-native run-android`
+	b. For **iOS**: `react-native run-ios`
