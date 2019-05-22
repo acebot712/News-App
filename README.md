@@ -1,7 +1,7 @@
 # News-App 
 
 This is a news app that shows world news of five countries: USA, India, France, Canada, Russia.
-![SCREENSHOT](https://github.com/asterdan712/News-App/blob/master/screenshot.png "Screenshot")
+<img src="https://github.com/asterdan712/News-App/blob/master/screenshot.png" alt="Screenshot" title="Screenshot" width="50%" height="50%" />
 
 ## Installing APK
 The release Android APK for the following file can be found [here](https://drive.google.com/file/d/1yRF4UR55LSJbzSiRaNaTY7seZ3L1H-aI/view?usp=sharing). Download and install the APK to your android device and the app is ready to run.
